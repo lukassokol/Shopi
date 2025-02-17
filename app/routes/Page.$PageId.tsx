@@ -1,3 +1,3 @@
 export default function Index() {
-  return <div>Index page</div>
+  return <div>Page number: </div>
 }
